@@ -247,7 +247,7 @@ html {
     min-height: 100%;
 }
 body {
-    margin-bottom: 360px;
+    margin-bottom: 350px;
 }
 
 .footer {
@@ -255,7 +255,7 @@ body {
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 260px;
+    height: 250px;
     background-color: #F0F1F2;
     margin-top: 100px;
 }
